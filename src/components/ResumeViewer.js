@@ -1,7 +1,7 @@
 import React from "react";
 
 const ResumeViewer = () => {
-    const resumeUrl = "/resume.pdf"; // URL of the resume in the public folder
+    const resumeUrl = "/bhavashesh_resume.pdf"; // URL of the resume in the public folder
 
     return (
         <div style={{ textAlign: 'center', margin: '20px' }}>
